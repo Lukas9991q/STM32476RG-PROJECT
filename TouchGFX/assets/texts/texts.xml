@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.22.1">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_RZME" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">000</Translation>
+      </Text>
+      <Text Id="__SingleUse_NL43" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">ADC Value = &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="abcde" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;&gt;</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="bgothl.ttf" Size="12" Bpp="4" Direction="LTR" WildcardCharacterRanges="0x20-0x7E" />
+  </Typographies>
+</TextDatabase>
